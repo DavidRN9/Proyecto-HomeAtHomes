@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>sie-homeathomes</name>
+=======
+	<name>sie-homeathomesV2</name>
+>>>>>>> refs/remotes/davidProyecto/master
 	<comment>9.0.0</comment>
 	<projects>
 	</projects>

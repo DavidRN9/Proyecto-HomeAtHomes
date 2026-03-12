@@ -4,6 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.company</groupId>
+<<<<<<< HEAD
     <artifactId>sie-homeathomes-bdm-parent</artifactId>
     <version>0.0.1</version>
   </parent>
@@ -12,6 +13,16 @@
     <dependency>
       <groupId>${project.groupId}</groupId>
       <artifactId>sie-homeathomes-bdm-model</artifactId>
+=======
+    <artifactId>sie-homeathomesV2-bdm-parent</artifactId>
+    <version>0.0.1</version>
+  </parent>
+  <artifactId>sie-homeathomesV2-bdm-dao-client</artifactId>
+  <dependencies>
+    <dependency>
+      <groupId>${project.groupId}</groupId>
+      <artifactId>sie-homeathomesV2-bdm-model</artifactId>
+>>>>>>> refs/remotes/davidProyecto/master
       <version>${project.version}</version>
     </dependency>
     <dependency>

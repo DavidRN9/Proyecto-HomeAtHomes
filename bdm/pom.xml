@@ -4,10 +4,17 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.company</groupId>
+<<<<<<< HEAD
     <artifactId>sie-homeathomes-parent</artifactId>
     <version>0.0.1</version>
   </parent>
   <artifactId>sie-homeathomes-bdm-parent</artifactId>
+=======
+    <artifactId>sie-homeathomesV2-parent</artifactId>
+    <version>0.0.1</version>
+  </parent>
+  <artifactId>sie-homeathomesV2-bdm-parent</artifactId>
+>>>>>>> refs/remotes/davidProyecto/master
   <packaging>pom</packaging>
   <modules>
     <module>model</module>

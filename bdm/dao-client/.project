@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>sie-homeathomes-bdm-dao-client</name>
+=======
+	<name>sie-homeathomesV2-bdm-dao-client</name>
+>>>>>>> refs/remotes/davidProyecto/master
 	<comment></comment>
 	<projects>
 	</projects>
